@@ -1,8 +1,8 @@
 
-const SigninForm = () => {
+const SignInForm = () => {
   return (
-    <div>SigninForm</div>
+    <div>SignInForm</div>
   )
 }
 
-export default SigninForm
+export default SignInForm
